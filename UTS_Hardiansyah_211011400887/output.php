@@ -3,7 +3,6 @@
 <head>
     <title>Data Group B Piala Asia U-23</title>
     <style>
-        /* Tambahkan sedikit styling pada tabel */
         table {
             border-collapse: collapse;
             width: 100%;
