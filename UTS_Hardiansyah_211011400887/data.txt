@@ -1,0 +1,4 @@
+KoreaSelatanU-23 3 3 0 0 9
+JepangU-23 3 2 0 1 6
+TiongkokU-23 3 1 0 2 3
+UniEmiratArab 3 0 0 3 0
