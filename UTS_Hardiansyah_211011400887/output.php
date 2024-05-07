@@ -57,5 +57,10 @@
         }
         ?>
     </table>
+    <!-- tombol balik ke halaman index -->
+    <br /><br />
+      <button onclick="window.location.href='index.html'">
+        back
+      </button>
 </body>
 </html>
